@@ -1,3 +1,3 @@
 # Robofriends
 
-Created with React and Redux
+Built with React and Redux and integrated with circleci.
